@@ -13,3 +13,4 @@
 
 | Name | Role | GitHub | Contact hours (ET) |
 |---|---|---|---|
+| Priya | Specifier | @priya-demo | Weekdays after 6 PM |
