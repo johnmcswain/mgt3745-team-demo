@@ -1,0 +1,23 @@
+# CODEOWNERS: the Accountable column of TEAM.md, enforced by GitHub.
+# Every path has two owners so that nobody approves their own work.
+# Last matching pattern wins.
+#
+# A four-person team writes, for example:
+#   /context/FEATURES.md      @priya-handle @leo-handle
+#   /context/ARCHITECTURE.md  @marcus-handle @leo-handle
+#   /context/EVALS.md         @leo-handle @priya-handle
+#   /context/CLAUDE.md        @dana-handle @marcus-handle
+#
+# This demo has two real accounts standing in for four members:
+#   johnmcswain plays Priya and Dana; SECOND-ACCOUNT plays Marcus and Leo.
+
+*                         @johnmcswain @SECOND-ACCOUNT
+/context/PROJECT.md       @johnmcswain @SECOND-ACCOUNT
+/context/USERS.md         @johnmcswain @SECOND-ACCOUNT
+/context/FEATURES.md      @johnmcswain @SECOND-ACCOUNT
+/context/ARCHITECTURE.md  @SECOND-ACCOUNT @johnmcswain
+/context/EVALS.md         @SECOND-ACCOUNT @johnmcswain
+/context/CLAUDE.md        @johnmcswain @SECOND-ACCOUNT
+/context/STANDARDS.md     @johnmcswain @SECOND-ACCOUNT
+/context/TOOLS.md         @johnmcswain @SECOND-ACCOUNT
+/docs/                    @johnmcswain @SECOND-ACCOUNT
