@@ -15,3 +15,4 @@
 |---|---|---|---|
 | Priya | Specifier | @priya-demo | Weekdays after 6 PM |
 | Marcus | Architect | @marcus-demo | Mornings before 10 AM |
+| Dana | Implementer | @dana-demo | Evenings and weekends |
