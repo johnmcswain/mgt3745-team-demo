@@ -27,3 +27,16 @@
 | Buildable on our stack in three weeks | 4 | Workers, D1, and a static page, which all four of us have shipped. |
 | Data we can get legally and soon | 3 | Synthetic data is acceptable in the course, so this matters less than it would at work. |
 | Meaning: at least three of us care | 4 | Google's re:Work finding. A problem only its owner cares about loses the other three by Phase 2. |
+
+## Scores (1 to 5, median of four private scores)
+
+| Criterion | Weight | A. Late invoices | B. Parking | C. Club dues | D. Tutoring |
+|---|---|---|---|---|---|
+| Wicked at team scale | 5 | 5 | 3 | 2 | 3 |
+| Users reachable | 4 | 3 | 5 | 5 | 3 |
+| Buildable | 4 | 4 | 4 | 5 | 2 |
+| Data | 3 | 3 | 4 | 2 | 4 |
+| Meaning | 4 | 4 | 2 | 2 | 3 |
+| **Weighted total (max 100)** | | **78** | **71** | **64** | **59** |
+
+Each member scored all four options privately and committed the sheet before the medians were computed. Owners scored their own problems; the medians absorb that.
