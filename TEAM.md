@@ -16,3 +16,7 @@
 | Priya | Specifier | @priya-demo | Weekdays after 6 PM |
 | Marcus | Architect | @marcus-demo | Mornings before 10 AM |
 | Dana | Implementer | @dana-demo | Evenings and weekends |
+| Leo | Reviewer | @leo-demo | Weekdays 12 to 2 PM, evenings |
+
+The handles are placeholders for fictional members. In class, two real accounts stand in for all four.
+
