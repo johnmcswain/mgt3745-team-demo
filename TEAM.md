@@ -14,3 +14,4 @@
 | Name | Role | GitHub | Contact hours (ET) |
 |---|---|---|---|
 | Priya | Specifier | @priya-demo | Weekdays after 6 PM |
+| Marcus | Architect | @marcus-demo | Mornings before 10 AM |
