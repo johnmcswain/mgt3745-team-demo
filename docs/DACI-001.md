@@ -47,6 +47,10 @@ Each member scored all four options privately and committed the sheet before the
 
 Runner-up: B, parking permits (71), kept as the fallback if the reopen trigger fires.
 
+## Dissent
+
+- Marcus: The users are business owners, and business owners are hard to schedule. Our users-reachable score of 3 is generous.
+
 ## What Would Reopen This
 
 We cannot confirm three business owners or office managers for Phase 2 testing by **October 15**. If that happens, Priya drives DACI-002 between A with a narrowed user group and B.
