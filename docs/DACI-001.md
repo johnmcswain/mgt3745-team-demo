@@ -40,3 +40,13 @@
 | **Weighted total (max 100)** | | **78** | **71** | **64** | **59** |
 
 Each member scored all four options privately and committed the sheet before the medians were computed. Owners scored their own problems; the medians absorb that.
+
+## Decision
+
+**Option A, late invoices.** Approved by Leo, 2026-09-26.
+
+Runner-up: B, parking permits (71), kept as the fallback if the reopen trigger fires.
+
+## What Would Reopen This
+
+We cannot confirm three business owners or office managers for Phase 2 testing by **October 15**. If that happens, Priya drives DACI-002 between A with a narrowed user group and B.
