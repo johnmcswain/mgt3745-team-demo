@@ -1,5 +1,6 @@
 # FEATURES.md
 
+Kano classification first, then EARS acceptance criteria for every Must-be and Performance feature. Every EARS row traces to a job statement in USERS.md (J-Rosa, J-Tom, J-Jamal). Rows marked PROBE-001 were added after the bolt.new specification probe (docs/PROBE-001.md).
 
 ## Kano Classification
 
@@ -23,6 +24,8 @@ The Kano table was critiqued by Claude before review (a C row in TEAM.md). It su
 - F1-2. WHEN a crew lead submits a promise, THE SYSTEM SHALL store it with the submitting location and a timestamp, and confirm on screen within 2 seconds.
 - F1-3. IF the invoice number does not match an open invoice, THEN THE SYSTEM SHALL keep the entry, mark it Unmatched, and say so on screen, so that nothing said in the yard is lost.
 - F1-4. IF the network is unavailable when a promise is submitted, THEN THE SYSTEM SHALL hold the entry on the device and send it when the network returns, showing Pending until then.
+- F1-5. THE SYSTEM SHALL require no login for crew leads in Phase 2; access is by a location link that the office can revoke. (PROBE-001 #1)
+- F1-6. IF a promised date is in the past or more than 60 days out, THEN THE SYSTEM SHALL ask the crew lead to confirm the date before saving. (PROBE-001 #3)
 
 ### F2. Overdue List With Promise Status (J-Tom)
 
@@ -30,6 +33,7 @@ The Kano table was critiqued by Claude before review (a C row in TEAM.md). It su
 - F2-2. THE SYSTEM SHALL sort invoices with no promise first, then by days overdue, descending.
 - F2-3. WHEN a promise is recorded for an invoice, THE SYSTEM SHALL show it on the list the next time the page loads.
 - F2-4. IF an invoice has more than one promise, THEN THE SYSTEM SHALL show the most recent and a count of earlier ones.
+- F2-5. THE SYSTEM SHALL show amounts in US dollars only; multi-currency is out of scope. (PROBE-001 #4)
 
 ### F3. Promise-Date Reminder (J-Tom, J-Rosa)
 
@@ -52,3 +56,6 @@ These are decisions, recorded so nobody builds them by accident.
 
 - **X1. No customer contact of any kind (F7).** The system never sends a message to a customer.
 - **X2. No payment processing.** The system records promises and statuses; money moves elsewhere.
+- **X3. No crew-lead accounts in Phase 2.** Revisit if a location link is shared outside the company. (PROBE-001 #1)
+- **X4. No accounting-software integration in Phase 2.** Invoices are loaded from a synthetic CSV. (PROBE-001 #2)
+- **X5. No customer-facing view.** (PROBE-001 #5)
