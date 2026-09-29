@@ -57,3 +57,8 @@ Each member predicted the RAT result (E6) and one other eval independently, then
 
 - **E6 (RAT):** 13 of 30. Logging drops sharply after the first two cards; by afternoon nobody bothers.
 - **E1 (latency):** 20 of 20 under 2 s from campus Wi-Fi; at least 3 of 20 over 2 s on a phone hotspot.
+
+### Stake: Dana (Implementer)
+
+- **E6 (RAT):** 17 of 30. Just under the pass line; the invoice-number field is the friction.
+- **E7 (call order):** 5 of 5. Sorting by status is obvious once you see it.
