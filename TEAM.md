@@ -20,3 +20,45 @@
 
 The handles are placeholders for fictional members. In class, two real accounts stand in for all four.
 
+## RACI Matrix (Phase 1)
+
+R = Responsible (does the work), A = Accountable (answers for it; exactly one person), C = Consulted (asked before), I = Informed (told after). AI tools may be R or C and are never A.
+
+| Artifact | Priya | Marcus | Dana | Leo | AI tools |
+|---|---|---|---|---|---|
+| TEAM.md | R | R | R | A | |
+| docs/DACI-001.md (problem choice) | R | C | C | C | |
+| context/PROJECT.md | A | C | I | C | |
+| context/USERS.md | A | I | C | C | |
+| context/FEATURES.md | A | C | I | C | C: Claude critiqued the Kano table; Priya is A |
+| context/ARCHITECTURE.md (Gate, ADR-001, diagram) | C | A | C | I | |
+| context/STANDARDS.md | I | C | A | C | C: Copilot drafted the merge; Dana is A |
+| context/TOOLS.md | I | C | A | C | |
+| context/CLAUDE.md | C | C | A | C | |
+| .github/CODEOWNERS and branch protection | I | I | A | C | |
+| docs/PROBE-001.md (bolt.new probe) | A | I | C | C | R: bolt.new ran the probe; Priya is A |
+| docs/DDR-001.md | C | I | A | I | |
+| context/EVALS.md (OST, RAT) | C | C | I | A | |
+| context/EVALS.md (Prediction Stakes) | R | R | R | A | |
+| Pull request reviews | R | R | R | A | |
+| README.md | C | C | R | A | |
+
+Where a row has no R, the A also did the work.
+
+## Rotation Plan
+
+| Member | Phase 1 | Phase 2 | Final |
+|---|---|---|---|
+| Priya | Specifier | Reviewer | Architect |
+| Marcus | Architect | Implementer | Specifier |
+| Dana | Implementer | Specifier | Reviewer |
+| Leo | Reviewer | Architect | Implementer |
+
+Nobody holds the same role twice, and every role is filled in every phase.
+
+## Meeting Log
+
+| Date | Decision or note | Recorded by |
+|---|---|---|
+| Sep 25 | Roles assigned; Leo drawn as DACI-001 Approver | Leo |
+| Sep 26 | DACI-001 closed: late invoices | Priya |
