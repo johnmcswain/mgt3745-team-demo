@@ -62,3 +62,8 @@ Each member predicted the RAT result (E6) and one other eval independently, then
 
 - **E6 (RAT):** 17 of 30. Just under the pass line; the invoice-number field is the friction.
 - **E7 (call order):** 5 of 5. Sorting by status is obvious once you see it.
+
+### Stake: Leo (Reviewer)
+
+- **E6 (RAT):** 16 of 30, with one tester logging all six and one logging none. The average will hide the spread.
+- **E5 (speed):** Median 23 seconds. Gloves make the date picker slow.
