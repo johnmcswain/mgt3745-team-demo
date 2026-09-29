@@ -67,3 +67,7 @@ Each member predicted the RAT result (E6) and one other eval independently, then
 
 - **E6 (RAT):** 16 of 30, with one tester logging all six and one logging none. The average will hide the spread.
 - **E5 (speed):** Median 23 seconds. Gloves make the date picker slow.
+
+## Where the Stakes Disagree
+
+Priya (21) and Marcus (13) disagree on the RAT by 8 of 30, on opposite sides of both thresholds. That gap is the most useful thing in this file: whichever of them is wrong will learn the most in Phase 2. Leo's point about spread means E6 reports each tester's count, as well as the total.
