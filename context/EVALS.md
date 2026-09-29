@@ -47,3 +47,8 @@ Everything downstream depends on F1 having data. A1 (speed) is testable in a hal
 ## Prediction Stakes
 
 Each member predicted the RAT result (E6) and one other eval independently, then committed their own stake. Stakes are resolved in Phase 2 with the number, dated, under each prediction. Predictions are not edited.
+
+### Stake: Priya (Specifier)
+
+- **E6 (RAT):** 21 of 30 promises logged. Testers who log the first card before lunch keep going.
+- **E5 (speed):** Median 14 seconds. Three inputs and no login should be fast.
