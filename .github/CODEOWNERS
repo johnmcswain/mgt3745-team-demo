@@ -9,15 +9,15 @@
 #   /context/CLAUDE.md        @dana-handle @marcus-handle
 #
 # This demo has two real accounts standing in for four members:
-#   johnmcswain plays Priya and Dana; SECOND-ACCOUNT plays Marcus and Leo.
+#   johnmcswain plays Priya and Dana; @jm-applegreen plays Marcus and Leo.
 
-*                         @johnmcswain @SECOND-ACCOUNT
-/context/PROJECT.md       @johnmcswain @SECOND-ACCOUNT
-/context/USERS.md         @johnmcswain @SECOND-ACCOUNT
-/context/FEATURES.md      @johnmcswain @SECOND-ACCOUNT
-/context/ARCHITECTURE.md  @SECOND-ACCOUNT @johnmcswain
-/context/EVALS.md         @SECOND-ACCOUNT @johnmcswain
-/context/CLAUDE.md        @johnmcswain @SECOND-ACCOUNT
-/context/STANDARDS.md     @johnmcswain @SECOND-ACCOUNT
-/context/TOOLS.md         @johnmcswain @SECOND-ACCOUNT
-/docs/                    @johnmcswain @SECOND-ACCOUNT
+*                         @johnmcswain @jm-applegreen
+/context/PROJECT.md       @johnmcswain @jm-applegreen
+/context/USERS.md         @johnmcswain @jm-applegreen
+/context/FEATURES.md      @johnmcswain @jm-applegreen
+/context/ARCHITECTURE.md  @jm-applegreen @johnmcswain
+/context/EVALS.md         @jm-applegreen @johnmcswain
+/context/CLAUDE.md        @johnmcswain @jm-applegreen
+/context/STANDARDS.md     @johnmcswain @jm-applegreen
+/context/TOOLS.md         @johnmcswain @jm-applegreen
+/docs/                    @johnmcswain @jm-applegreen
