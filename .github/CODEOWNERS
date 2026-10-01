@@ -11,13 +11,13 @@
 # This demo has two real accounts standing in for four members:
 #   johnmcswain plays Priya and Dana; @jm-applegreen plays Marcus and Leo.
 
-*                         @johnmcswain @jm-applegreen
-/context/PROJECT.md       @johnmcswain @jm-applegreen
-/context/USERS.md         @johnmcswain @jm-applegreen
-/context/FEATURES.md      @johnmcswain @jm-applegreen
-/context/ARCHITECTURE.md  @jm-applegreen @johnmcswain
-/context/EVALS.md         @jm-applegreen @johnmcswain
-/context/CLAUDE.md        @johnmcswain @jm-applegreen
-/context/STANDARDS.md     @johnmcswain @jm-applegreen
-/context/TOOLS.md         @johnmcswain @jm-applegreen
-/docs/                    @johnmcswain @jm-applegreen
+*                         @johnmcswain @johnmcswain2
+/context/PROJECT.md       @johnmcswain @johnmcswain2
+/context/USERS.md         @johnmcswain @johnmcswain2
+/context/FEATURES.md      @johnmcswain @johnmcswain2
+/context/ARCHITECTURE.md  @johnmcswain2 @johnmcswain
+/context/EVALS.md         @johnmcswain2 @johnmcswain
+/context/CLAUDE.md        @johnmcswain @johnmcswain2
+/context/STANDARDS.md     @johnmcswain @johnmcswain2
+/context/TOOLS.md         @johnmcswain @johnmcswain2
+/docs/                    @johnmcswain @johnmcswain2
