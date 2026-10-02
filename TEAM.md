@@ -62,4 +62,5 @@ Nobody holds the same role twice, and every role is filled in every phase.
 |---|---|---|
 | Sep 25 | Roles assigned; Leo drawn as DACI-001 Approver | Leo |
 | Sep 26 | DACI-001 closed: late invoices | Priya |
+| Oct 1 | Offline queue spike assigned | Marcus |
 | Oct 1 | Status check | Priya |
